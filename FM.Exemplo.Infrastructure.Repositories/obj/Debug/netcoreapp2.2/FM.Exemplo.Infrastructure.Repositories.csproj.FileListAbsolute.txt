@@ -1,0 +1,14 @@
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.deps.json
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.dll
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.csprojAssemblyReference.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.csproj.CoreCompileInputs.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.AssemblyInfoInputs.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.AssemblyInfo.cs
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Domain.dll
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.runtimeconfig.json
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.runtimeconfig.dev.json
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.pdb
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\bin\Debug\netcoreapp2.2\FM.Exemplo.Domain.pdb
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.csproj.CopyComplete
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.dll
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Infrastructure.Repositories\obj\Debug\netcoreapp2.2\FM.Exemplo.Infrastructure.Repositories.pdb

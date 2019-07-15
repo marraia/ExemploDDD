@@ -1,0 +1,9 @@
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\bin\Debug\netcoreapp2.2\FM.Exemplo.Domain.deps.json
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\bin\Debug\netcoreapp2.2\FM.Exemplo.Domain.dll
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\bin\Debug\netcoreapp2.2\FM.Exemplo.Domain.pdb
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.csprojAssemblyReference.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.csproj.CoreCompileInputs.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.AssemblyInfoInputs.cache
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.AssemblyInfo.cs
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.dll
+C:\_projetos\ExemploJwt\FM.Exemplo\FM.Exemplo.Domain\obj\Debug\netcoreapp2.2\FM.Exemplo.Domain.pdb

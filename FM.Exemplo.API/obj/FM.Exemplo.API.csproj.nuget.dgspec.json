@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.API\\FM.Exemplo.API.csproj": {}
+  },
+  "projects": {
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.API\\FM.Exemplo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.API\\FM.Exemplo.API.csproj",
+        "projectName": "FM.Exemplo.API",
+        "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.API\\FM.Exemplo.API.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\FM.Exemplo.Infrastructure.IoC.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\FM.Exemplo.Infrastructure.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\FM.Exemplo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\FM.Exemplo.Application.csproj",
+        "projectName": "FM.Exemplo.Application",
+        "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\FM.Exemplo.Application.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj",
+        "projectName": "FM.Exemplo.Domain",
+        "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\FM.Exemplo.Infrastructure.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\FM.Exemplo.Infrastructure.IoC.csproj",
+        "projectName": "FM.Exemplo.Infrastructure.IoC",
+        "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\FM.Exemplo.Infrastructure.IoC.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\FM.Exemplo.Application.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Application\\FM.Exemplo.Application.csproj"
+              },
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj"
+              },
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\FM.Exemplo.Infrastructure.Repositories.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\FM.Exemplo.Infrastructure.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\FM.Exemplo.Infrastructure.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\FM.Exemplo.Infrastructure.Repositories.csproj",
+        "projectName": "FM.Exemplo.Infrastructure.Repositories",
+        "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\FM.Exemplo.Infrastructure.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
+        "outputPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Infrastructure.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj": {
+                "projectPath": "C:\\_projetos\\ExemploJwt\\FM.Exemplo\\FM.Exemplo.Domain\\FM.Exemplo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
